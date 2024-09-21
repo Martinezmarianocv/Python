@@ -58,7 +58,7 @@ print("")
 
 # Funciones
 
-print(language.capitalize()) # Pone el primer string con mayuscula
+print(language.capitalize()) # Pone el primer string con mayúscula
 print(language.upper()) # Escribe todo el string en mayusculas
 print(language.count("t")) # Cuenta cuantas veces aparece el valor dado en nuestra variable
 print(language.isnumeric()) # Devuelve False si no es un número
@@ -66,3 +66,4 @@ print("5".isnumeric()) # Devuelve True si es un número
 print(language.lower()) # Escribe todo el string con minusculas
 print(language.upper().isupper()) # upper lo hace con una mayuscula e isupper devuelve true porque si esta en mayusculas
 print(language.startswith("py")) # Devuelve True si el valor que damos es con el que comienza el valor de la variable
+

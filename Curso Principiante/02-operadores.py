@@ -40,4 +40,5 @@ print("") # Para dejar un espacio
 print(10 > 4 and "Hola" > "Python") # True & False = False
 print(10 > 4 or "Hola" > "Python") # True O False = True
 print(not (10 > 4)) # Nega la condicion - Si es False muestra True y si es True muestra False
+print(not 25 < 45)
 
