@@ -4,7 +4,7 @@ my_set = set()
 my_other_set = {}
 
 print(type(my_set))
-print(type(my_other_set)) # Por las llaver {} inicialmente es un diccionario vacio
+print(type(my_other_set)) # Por las llaves {} inicialmente es un diccionario vacio
 
 my_other_set = {"Martinez", "Mariano", 23} # Vamos a entenderlo como una lista
 print(type(my_other_set)) # Ahora que le asigamos valores entre las llaves pasa a ser un SET. Esto por la forma en la que agregamos los datos
